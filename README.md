@@ -1,5 +1,5 @@
 
-<img src = "./LOGO.png" align = center">
+<img src = "./LOGO.png" align = "center">
 
 
 <p align="justify">
